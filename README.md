@@ -115,6 +115,6 @@ Also verify that Git LFS is correctly installed and initialized on your system.
 ## 🙌 Contributors
 
 - Josh Tsai
-- [Add team member names here]
+- Yasaman Yazdi
 
 ---
